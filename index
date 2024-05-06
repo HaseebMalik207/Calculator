@@ -4,5 +4,6 @@ Haseeb Ul Hassan
 using namespce std;
 int main(){
 	cout << "The sum of two numbers: " << a + b << endl;
+	cout << "The difference of two numbers: " << a - b << endl;
 	return 0;
 }
