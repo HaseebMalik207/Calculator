@@ -1,2 +1,8 @@
 Haseeb Ul Hassan
 23-st-008
+#include <iostream>
+using namespce std;
+int main(){
+	cout << "The sum of two numbers: " << a + b << endl;
+	return 0;
+}
