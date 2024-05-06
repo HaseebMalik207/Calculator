@@ -6,5 +6,6 @@ int main(){
 	cout << "The sum of two numbers: " << a + b << endl;
 	cout << "The difference of two numbers: " << a - b << endl;
 	cout << "The product of two numbers: " << a * b << endl;
+	cout << "The division of two numbers: " << a / b << endl;
 	return 0;
 }
